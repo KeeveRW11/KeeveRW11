@@ -38,4 +38,20 @@ Here are some ideas to get you started:
 </code><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 </code><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 </code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+</code><img align="left" alt="Heroku" width="26px" src="https://camo.githubusercontent.com/e7b9aa5f16dc14657a53a83625343b3786e69a35644c48c8c1c3bf040d17f609/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" /></code>
 </code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Keeve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeeveRW11&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Keeve's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeveRW11" />
