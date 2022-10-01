@@ -3,7 +3,6 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Keeve, I am currently learning Full Stack Web Developement :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 
@@ -44,14 +43,9 @@ Here are some ideas to get you started:
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Keeve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeeveRW11&show_icons=true&hide_border=true" />
+<img align="left" alt="Keeve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeeveRW11&show_icons=true&hide_border=true" />
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Keeve's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeveRW11" />
