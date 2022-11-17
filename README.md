@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 ![EDX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 
 <br />
----
-
 
 <img align="left" alt="Keeve's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeeveRW11&show_icons=true&hide_border=true" />
 
